@@ -1,0 +1,59 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    background-image: linear-gradient(to bottom right, #00F490,#00BBC9);
+}
+
+
+h1 {
+    font-family: 'Abril Fatface', cursive;
+    font-size: 75px;
+}
+
+.jumbotron{
+    background-color: rgb(250, 235, 225,0);
+    /* border: 3px solid yellow; */
+}
+
+.lead{
+    font-size: 2.2rem;
+    color: white;
+}
+
+.box1{
+    /* background-color: blue; */
+
+}
+.jumbotron img{
+    /* border: solid 3px red; */
+}
+
+.shadow{
+    text-shadow:0px 2px 2px rgb(0,0,0,0.153);
+}
+
+.btn-outline-light{
+    border-color: white;
+}
+
+.btn-outline-light:hover{
+ background-color: rgba(255, 255, 255, 0.205);   
+}
+
+.btn-primary, .btn-primary:hover{
+    background-color: #00BBC9;
+    border-color: #00BBC9;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
